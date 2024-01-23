@@ -4,7 +4,7 @@ We are not interested in collecting any personal information. We believe such in
 
 **What Information Do We Collect?**
 
-EvseTimer does not collect any personal information or connect to the internet. 
+This app does not collect any personal information or connect to the internet. 
 
 
 **Contact**
